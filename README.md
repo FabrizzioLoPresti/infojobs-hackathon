@@ -1,3 +1,5 @@
+# Proyecto Infojobs AI ChatGPT OpenAI API
+
 Para levantarlo, instala las dependencias y ejecuta `npm run dev`.
 
 Ten en cuenta que falta el `.env.local` con las variables de entorno necesarias para que funcione el proyecto. Puedes encontrar un ejemplo en el archivo `.env.example`.
